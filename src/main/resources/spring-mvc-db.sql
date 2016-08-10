@@ -15,6 +15,10 @@ Date: 2016-08-10 02:07:16
 
 SET FOREIGN_KEY_CHECKS=0;
 
+CREATE DATABASE IF NOT EXISTS `spring-mvc`;
+
+USE `spring-mvc`;
+
 -- ----------------------------
 -- Table structure for `donor`
 -- ----------------------------
